@@ -1,6 +1,6 @@
 # MatrixPortal-S3-Stock-Ticker
 
-I used MarioCruz's MatrixPortal M4/CircuitPython 6.0x code as a baseline and updated to get it working on MatrixPortal S3. Also I removed the scrolling feature as it didn't fit my use case for a single stock ticker. 
+I used MarioCruz's MatrixPortal M4/CircuitPython 6.0x code (https://github.com/MarioCruz/MatrixPortalStockTicker) as a baseline and updated to get it working on MatrixPortal S3. Also I removed the scrolling feature as it didn't fit my use case for a single stock ticker. 
 
 Choose three of the following to display: current price/$ change/% change/high price/low price/open price/prior day close price via Finnio API. 
 
