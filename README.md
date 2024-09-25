@@ -26,9 +26,11 @@ Lines 60 - 95 of Code.py allows you adjust where the three of the five datapoint
   
 
 Example 1:
+
 ![MatrixPortalS3 Ticker Ex1](https://github.com/user-attachments/assets/fea9fcbf-823d-41c3-b4c4-6420c2a6bb0e)
 
 Example 2:
+
 ![MatrixPortalS3 Ticker Ex2](https://github.com/user-attachments/assets/aeb2fe75-f86b-4d49-84c1-8944ecde4b31)
 
 
